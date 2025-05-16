@@ -1,0 +1,202 @@
+[
+  {
+    "page_number": 1,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "modified",
+        "original_text": "Example of Credit Card Agreement for Bank\nof America® World Elite Mastercard® accounts\n\n",
+        "updated_text": "Example of Credit Card Agreement for\nBank of America® Platinum Mastercard®,\nWorld Mastercard®, Platinum Visa®,\nVisa Signature®, and Visa Infinite® accounts"
+      },
+      {
+        "type": "modified",
+        "original_text": "This credit card program is issued and administered by Bank of America, N.A. Mastercard and World Elite",
+        "updated_text": "This credit card program is issued and administered by Bank of America, N.A. Mastercard and World"
+      },
+      {
+        "type": "modified",
+        "original_text": "pursuant to license. Bank of America is a registered trademark of Bank of America Corporation.",
+        "updated_text": "pursuant to license. Visa, Visa Signature, and Visa Infinite are registered trademarks of Visa International\nService Association, and are used by the issuer pursuant to license from Visa U.S.A., Inc. Platinum Plus is a\nregistered trademark of Bank of America Corporation. Bank of America is a registered trademark of Bank\nof America Corporation."
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "modified",
+        "original_text": "Prime + 12.74% to Prime + 20.74%\n(APR) 20.24% to 28.24%\n(DPR) 0.055452% to 0.077369%",
+        "updated_text": "Prime + 6.74% to Prime + 20.74%\n(APR) 14.24% to 28.24%\n(DPR) 0.039013% to 0.077369%"
+      },
+      {
+        "type": "modified",
+        "original_text": "Prime + 12.74% to Prime + 20.74%\n(APR) 20.24% to 28.24%\n(DPR) 0.055452% to 0.077369%",
+        "updated_text": "Prime + 6.74% to Prime + 20.74%\n(APR) 14.24% to 28.24%\n(DPR) 0.039013% to 0.077369%"
+      },
+      {
+        "type": "modified",
+        "original_text": "Prime + 15.74% to Prime + 20.74%\n(APR) 23.24% to 28.24%\n(DPR) 0.063671% to 0.077369%",
+        "updated_text": "Prime + 9.74% to Prime + 20.74%\n(APR) 17.24% to 28.24%\n(DPR) 0.047232% to 0.077369%"
+      },
+      {
+        "type": "modified",
+        "original_text": "Up to 29.99%, based on your creditworthiness.  This APR will vary with the\nmarket based on the Prime Rate.",
+        "updated_text": "None or Up to 29.99%, based on your creditworthiness.  This APR will vary\nwith the market based on the Prime Rate."
+      },
+      {
+        "type": "modified",
+        "original_text": "$79 to $89",
+        "updated_text": "$0 to $550"
+      },
+      {
+        "type": "modified",
+        "original_text": "4%",
+        "updated_text": "0% to 4%"
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "modified",
+        "original_text": "4%",
+        "updated_text": "0% to 4%"
+      },
+      {
+        "type": "modified",
+        "original_text": "4%",
+        "updated_text": "0% to 4%"
+      },
+      {
+        "type": "added",
+        "original_text": null,
+        "updated_text": "\nForeign Transaction % of\nTransaction\n0% to 3%"
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "is_identical": true,
+    "changes": []
+  },
+  {
+    "page_number": 5,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "modified",
+        "original_text": "TRANSACTIONS MADE IN FOREIGN CURRENCIES\nIf you make a transaction in a foreign currency, the transaction will\nbe converted by Visa International or Mastercard International,\ndepending on which card is associated with this account, into a U.S.\ndollar amount in accordance with the operating regulations or\nconversion procedures in effect at the time the transaction is\nprocessed. The currency conversion rate used by Visa is either (a) a\nrate selected by Visa from the range of rates available in wholesale\ncurrency markets for the applicable processing date, which rate\nmay vary from the rate Visa receives; or (b) the rate mandated by a\ngovernment or governing body in effect for the applicable\nprocessing date. The currency conversion rate for Mastercard is\nbased on (a) rates observed in the wholesale market or (b)\ngovernment-mandated rates, where applicable, for the transaction\ndate or the processing date. The currency conversion rate in effect\non the processing date may differ from the rate in effect on the\ntransaction date or posting date.",
+        "updated_text": "FOREIGN TRANSACTIONS\nA “Foreign Transaction” is any transaction made in a foreign\ncurrency. If you make a Foreign Transaction, we will assess the\nForeign Transaction Fee [see the Pricing Information table for fee\namount]. If a transaction is made in a foreign currency, the\ntransaction will be converted by Visa International or Mastercard\nInternational, depending on which card is associated with this\naccount, into a U.S. dollar amount in accordance with the operating\nregulations or conversion procedures in effect at the time the\ntransaction is processed. The currency conversion rate used by Visa\nis either (a) a rate selected by Visa from the range of rates available\nin wholesale currency markets for the applicable processing date,\nwhich rate may vary from the rate Visa receives; or (b) the rate\nmandated by a government or governing body in effect for the\napplicable processing date. The currency conversion rate for\nMastercard is based on (a) rates observed in the wholesale market\nor (b) government-mandated rates, where applicable, for the\ntransaction date or the processing date. The currency conversion\nrate in effect on the processing date may differ from the rate in\neffect on the transaction date or posting date."
+      },
+      {
+        "type": "modified",
+        "original_text": "your entire “Grace Period Balance”, as defined in the next two\nparagraphs, by the Payment Due Date. Specifically, you will not pay\ninterest for an entire billing cycle on Purchases if you Paid in Full\nthe two previous Grace Period Balances on your account by their\nrespective Payment Due Dates; otherwise, each Purchase begins to",
+        "updated_text": "your entire “Grace Period Balance”, as defined in the next two"
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "added",
+        "original_text": null,
+        "updated_text": "paragraphs, by the Payment Due Date. Specifically, you will not pay\ninterest for an entire billing cycle on Purchases if you Paid in Full\nthe two previous Grace Period Balances on your account by their\nrespective Payment Due Dates; otherwise, each Purchase begins to"
+      },
+      {
+        "type": "modified",
+        "original_text": "call us promptly to have the credit applied to the Plan balance. To\nthe extent the Plan balance equals or exceeds the amount of the\nmerchant credit, we will apply that credit to the Plan balance.\nOtherwise, such credit will be applied to your account balance as a\ngeneral merchant credit.",
+        "updated_text": "call us promptly to have the credit applied to the Plan balance. To"
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "added",
+        "original_text": null,
+        "updated_text": "the extent the Plan balance equals or exceeds the amount of the\nmerchant credit, we will apply that credit to the Plan balance.\nOtherwise, such credit will be applied to your account balance as a\ngeneral merchant credit."
+      },
+      {
+        "type": "modified",
+        "original_text": "Same-Day Online Cash Advance",
+        "updated_text": "Same-Day Online Cash Advance\nForeign Transaction"
+      },
+      {
+        "type": "modified",
+        "original_text": "We credit mailed payments as of the date received, if the payment\nis: (1) received by 5 p.m. local time at the address shown on the\nremittance portion of your monthly statement; (2) paid with a check\ndrawn in U.S. dollars on a U.S. financial institution or a U.S. dollar\nmoney order; and (3) sent in the return envelope with only the\nremittance portion of your statement accompanying it. However,\nmailed payments need not be sent in a return envelope if we sent",
+        "updated_text": "We credit mailed payments as of the date received, if the payment"
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "added",
+        "original_text": null,
+        "updated_text": "is: (1) received by 5 p.m. local time at the address shown on the\nremittance portion of your monthly statement; (2) paid with a check\ndrawn in U.S. dollars on a U.S. financial institution or a U.S. dollar\nmoney order; and (3) sent in the return envelope with only the\nremittance portion of your statement accompanying it. However,\nmailed payments need not be sent in a return envelope if we sent"
+      },
+      {
+        "type": "modified",
+        "original_text": "credit line; (2) permit the transaction and treat the amount of the\ntransaction that is more than the credit line as immediately due; or\n(3) refuse to permit the transaction.\nIf we refuse to permit the transaction, we may advise the person\nwho attempted the transaction that it has been refused. If we\nrefuse to permit a Check Cash Advance or Balance Transfer, we\nmay do so by advising the person presenting the Check Cash",
+        "updated_text": "credit line; (2) permit the transaction and treat the amount of the"
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "added",
+        "original_text": null,
+        "updated_text": "transaction that is more than the credit line as immediately due; or\n(3) refuse to permit the transaction.\nIf we refuse to permit the transaction, we may advise the person\nwho attempted the transaction that it has been refused. If we\nrefuse to permit a Check Cash Advance or Balance Transfer, we\nmay do so by advising the person presenting the Check Cash"
+      },
+      {
+        "type": "modified",
+        "original_text": "provide your new card number and expiration date to Mastercard,\nwho may provide it to the merchant with whom you have set up a\nrecurring preauthorized transaction in order to continue your\nrecurring preauthorized transactions. You will want to confirm with\nthe merchants that they have your new card information.",
+        "updated_text": "provide your new card number and expiration date to Visa or\nMastercard, depending on which card is associated with this\naccount, who may provide it to the merchant with whom you have\nset up a recurring preauthorized transaction in order to continue\nyour recurring preauthorized transactions. You will want to confirm\nwith the merchants that they have your new card information."
+      },
+      {
+        "type": "removed",
+        "original_text": "If your eligible deposit account with Bank of America is linked to\nthis account, this overdraft protection feature (which may also be\nreferred to as Balance Connect®) will allow funds to be transferred\n(“overdraft protection transfers”) from this account into your\ndesignated deposit account with Bank of America when\ntransactions occur on your deposit account, such as checks or other\ndebits, that if paid would cause the deposit account to be",
+        "updated_text": null
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "added",
+        "original_text": null,
+        "updated_text": "If your eligible deposit account with Bank of America is linked to\nthis account, this overdraft protection feature (which may also be\nreferred to as Balance Connect®) will allow funds to be transferred\n(“overdraft protection transfers”) from this account into your\ndesignated deposit account with Bank of America when\ntransactions occur on your deposit account, such as checks or other\ndebits, that if paid would cause the deposit account to be"
+      },
+      {
+        "type": "removed",
+        "original_text": "UNAUTHORIZED USE OF YOUR ACCOUNT\nPlease notify us immediately of the loss, theft, or possible\nunauthorized use of your account at 1.800.421.2110.\nYOUR BILLING RIGHTS\nKeep This Document For Future Use",
+        "updated_text": null
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "is_identical": false,
+    "changes": [
+      {
+        "type": "added",
+        "original_text": null,
+        "updated_text": "UNAUTHORIZED USE OF YOUR ACCOUNT\nPlease notify us immediately of the loss, theft, or possible\nunauthorized use of your account at 1.800.421.2110.\nYOUR BILLING RIGHTS\nKeep This Document For Future Use"
+      }
+    ]
+  }
+]
